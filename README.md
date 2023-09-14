@@ -2,8 +2,9 @@ FastCurrency - серверная часть приложения для кон�
 
 Для запуска:
 
-docker build -t <build:name> .
-docker run -d -p 8000:8000 <build:name>
+1)docker build -t <build:name> .
+
+2)docker run -d -p 8000:8000 <build:name>
 
 Документация:
 Находится по адресу /docs
